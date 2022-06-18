@@ -16,8 +16,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://tukooldegreat.github.io/QR-CODE-COMPONENT/]
 
 ### Built with
 
@@ -28,5 +27,5 @@
 
 ## Author
 
-- Frontend Mentor - [@Tukooldegreat](https://www.frontendmentor.io/profile/Tukooldegreat)
-- Twitter - [@Tukooldegreat](https://www.twitter.com/tukooldegreat)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Tukooldegreat]
+- Twitter - [https://www.twitter.com/tukooldegreat]
